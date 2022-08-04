@@ -1,5 +1,6 @@
-/*
 
+Take Integer N as input and print the following pattern.
+    
 I/p  N=5
 
 O/P
@@ -10,7 +11,16 @@ O/P
 * * * * 
 * * * * *
 
-*/
+I/P N=6
+    
+O/p   
+
+* 
+* * 
+* * * 
+* * * * 
+* * * * *   
+* * * * * *   
 
 // java code
 
